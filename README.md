@@ -15,8 +15,9 @@ I'm an aspiring full-stack developer that has experience working in both front a
     <i>coming soon</i>
 </details>
 <details>
-  <summary>NoTic MKE Parking Application</summary>
-    <i>coming soon</i>
+  <summary>NoTic MKE Parking Mobile Application</summary>
+    <a href="https://drive.google.com/file/d/1IYYXofhqThronOmxJFej5AUat3VOkIXP/view">Link to the presentation including a video demo</a>
+    <p>For my senior capstone I worked a project manager and developer for NoTic MKE. Working with market research, we developed a cross platform mobile application using ReactNative. Working in agile sprints over the course of 8 weeks we were able to produce a fully functioning mobile application with 4 key features customers desired, and continue to grow.</p>
 </details>
 <details>
   <summary>24 to Code Hackathon</summary>
