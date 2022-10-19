@@ -8,11 +8,11 @@ I'm an aspiring full-stack developer that has experience working in both front a
 #
 <details>
   <summary>Inner Quest Health & Wellness</summary>
-    <i>coming soon</i>
+    <p>IQH&W is a new company based out of Denver, Colorado. Aiming the serve those working through grief and trauma. This site was built from the ground up working as a designer and developer to customize the site based on a chosen template.</p>
 </details>
 <details>
   <summary>Ethical Hacking Final Project</summary>
-    <i>coming soon</i>
+    <p>Working with a team of 3 other developers and IT students we built a python script that would simulate a Machine in the Middle attack and collect users information. The script also incorporates a dictionary attack that allows the script to search for common hash's to crack user passwords collected in the MITM attack. This was all for a university course and was in a controlled virtual enviornment.</p>
 </details>
 <details>
   <summary>NoTic MKE Parking Mobile Application</summary>
@@ -21,15 +21,15 @@ I'm an aspiring full-stack developer that has experience working in both front a
 </details>
 <details>
   <summary>24 to Code Hackathon</summary>
-    <i>coming soon</i>
+    <p>Over the course of one weekend I worked with a team of 3 others aiming to solve a problem presented by Rockwell Automation. Using Azure, Power bi, and Python we created automated software for uploading thousands of .CSV records, built dynamic reports to find anomalies within their network traffic.</p>
  </details>
  <details>
   <summary>Milwaukee Quakers</summary>
-    <i>coming soon</i>
+    <p> worked for Nonprof-IT, part of UW - Milwaukee's IT program, as a project manager tasked with a mobile website redesign. This included a revamped website, brand new logo, file system & new security for their members. </p>
 </details>
 <details>
   <summary>Netflix Clone</summary>
-    <i>coming soon</i>
+    <p>I built a Netflix web application clone using React js and "The Movie Database" API allowing me to use their meta data to pull movie trailers from Youtube as a preview. This allowed me to learn React js & continue to improve my front end dev skills.</p>
 </details>
  
 ### 🧰 Languages and Tools
