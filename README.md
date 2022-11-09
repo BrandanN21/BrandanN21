@@ -8,16 +8,17 @@ I'm an aspiring full-stack developer that has experience working in both front a
 #
 <details>
   <summary>Inner Quest Health & Wellness</summary>
+  <a href="https://innerquesthealth.com/">Inner Quest Health & Wellness Website</a>
     <p>IQH&W is a new company based out of Denver, Colorado. Aiming the serve those working through grief and trauma. This site was built from the ground up working as a designer and developer to customize the site based on a chosen template.</p>
+</details>
+<details>
+  <summary>NoTic MKE Parking React Native Mobile Application</summary>
+    <a href="https://drive.google.com/file/d/1IYYXofhqThronOmxJFej5AUat3VOkIXP/view">Link to the presentation including a video demo</a>
+    <p>For my senior capstone I worked a project manager and developer for NoTic MKE. Working with market research, we developed a cross platform mobile application using ReactNative. Working in agile sprints over the course of 8 weeks we were able to produce a fully functioning mobile application with 4 key features customers desired, and continue to grow.</p>
 </details>
 <details>
   <summary>Ethical Hacking Final Project</summary>
     <p>Working with a team of 3 other developers and IT students we built a python script that would simulate a Machine in the Middle attack and collect users information. The script also incorporates a dictionary attack that allows the script to search for common hash's to crack user passwords collected in the MITM attack. This was all for a university course and was in a controlled virtual enviornment.</p>
-</details>
-<details>
-  <summary>NoTic MKE Parking Mobile Application</summary>
-    <a href="https://drive.google.com/file/d/1IYYXofhqThronOmxJFej5AUat3VOkIXP/view">Link to the presentation including a video demo</a>
-    <p>For my senior capstone I worked a project manager and developer for NoTic MKE. Working with market research, we developed a cross platform mobile application using ReactNative. Working in agile sprints over the course of 8 weeks we were able to produce a fully functioning mobile application with 4 key features customers desired, and continue to grow.</p>
 </details>
 <details>
   <summary>24 to Code Hackathon</summary>
@@ -25,11 +26,13 @@ I'm an aspiring full-stack developer that has experience working in both front a
  </details>
  <details>
   <summary>Milwaukee Quakers</summary>
-    <p> worked for Nonprof-IT, part of UW - Milwaukee's IT program, as a project manager tasked with a mobile website redesign. This included a revamped website, brand new logo, file system & new security for their members. </p>
+  <a href="https://www.milwaukeequakers.org/">Milwaukee Quakers Website</a>
+    <p>I worked for Nonprof-IT, part of UW - Milwaukee's IT program, as a project manager tasked with a mobile website redesign. This included a revamped website, brand new logo, file system & new security for their members. </p>
 </details>
 <details>
-  <summary>Netflix Clone</summary>
-    <p>I built a Netflix web application clone using React js and "The Movie Database" API allowing me to use their meta data to pull movie trailers from Youtube as a preview. This allowed me to learn React js & continue to improve my front end dev skills.</p>
+  <summary>Netflix Clone with React.js</summary>
+  <a href="https://netflix-clone-bbde9.web.app/">Netflix Clone Github Pages Link</a>
+    <p>I built a Netflix web application clone using React js and "The Movie Database" API allowing me to use their meta data to pull movie trailers from Youtube as a preview. This allowed me to learn React & continue to improve my front end dev skills while using external APIs.</p>
 </details>
  
 ### 🧰 Languages and Tools
